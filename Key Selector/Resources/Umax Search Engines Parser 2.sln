@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umax Search Engines Parser 2", "Search Engines Parser 2\Umax Search Engines Parser 2.csproj", "{B63BE527-CAC3-474D-A813-CC8CCD43DA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGen", "KeyGen\KeyGen.csproj", "{1CFB144A-2CDE-4323-895B-B319F184C8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63BE527-CAC3-474D-A813-CC8CCD43DA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63BE527-CAC3-474D-A813-CC8CCD43DA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63BE527-CAC3-474D-A813-CC8CCD43DA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63BE527-CAC3-474D-A813-CC8CCD43DA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFB144A-2CDE-4323-895B-B319F184C8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFB144A-2CDE-4323-895B-B319F184C8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFB144A-2CDE-4323-895B-B319F184C8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFB144A-2CDE-4323-895B-B319F184C8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
